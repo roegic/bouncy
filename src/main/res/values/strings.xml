@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bouncy</string>
+    <string name="play">PLAY</string>
+    <string name="authorize">authorize</string>
+    <string name="login">auth</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="back">back</string>
+    <string name="logout">LogOut</string>
+    <string name="high_score">HIGH SCORE</string>
+    <string name="score">SCORE:</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="restart">Restart</string>
+    <string name="menu">menu</string>
+    <string name="image_button_play">play</string>
+    <string name="login_button">login</string>
+</resources>
